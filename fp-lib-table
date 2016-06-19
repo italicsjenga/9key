@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Keyboard)(type KiCad)(uri C:\Users\janka\Documents\KiCad\Keyboard.pretty)(options "")(descr ""))
+  (lib (name footprints)(type Legacy)(uri C:\Users\janka\Documents\KiCad\KiCAD-Keyboard-Tutorial\footprints.mod)(options "")(descr ""))
+  (lib (name "Keyboard test 1")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name "Keyboard Test 2")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
